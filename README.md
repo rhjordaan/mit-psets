@@ -1,5 +1,4 @@
 # mit-psets
- Coding Psets for MIT classes.
 
 Classes included:
 
@@ -11,4 +10,5 @@ High school projects (2017-2018)
 Course website: https://sicp-s1.mit.edu/spring20
 
 6S083: Intro to Computational Thinking in Julia with Applications to the COVID-19 Pandemic (Spring 2020)
+Course website: https://github.com/mitmath/6S083
 
