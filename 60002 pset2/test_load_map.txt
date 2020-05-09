@@ -1,0 +1,6 @@
+a b 15 arterial
+a c 20 local
+a d 12 bridge
+b c 18 interstate
+b d 16 local
+c d 14 interstate
