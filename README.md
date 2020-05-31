@@ -12,6 +12,3 @@ Course website: https://sicp-s1.mit.edu/spring20
 
 Course website: https://github.com/mitmath/6S083
 
-
-
-High school projects (2017-2018)<br>
